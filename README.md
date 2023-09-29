@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shashwat Singh</h1>
 <h3 align="center">Turning Coffee into Code</h3>
-<img align="right" alt="Hello" width="250" height="250" src="https://media.tenor.com/RU38Cn9G3E0AAAAC/hello-aidan-gallagher.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hishelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="hishelloworld" /> </p>
 
