@@ -1,4 +1,4 @@
-![MasterHead](href=https://giphy.com/gifs/naruto-shippuden-2y98KScHKeaQM)
+![MasterHead] <iframe src="https://giphy.com/embed/2y98KScHKeaQM" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-shippuden-2y98KScHKeaQM">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Singh</h1>
 <h3 align="center">Turning Coffee into Code</h3>
