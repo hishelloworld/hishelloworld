@@ -1,4 +1,3 @@
-![MasterHead] (https://giphy.com/embed/2y98KScHKeaQM)
 
 <h1 align="center">Hi 👋, I'm Shashwat Singh</h1>
 <h3 align="center">Turning Coffee into Code</h3>
